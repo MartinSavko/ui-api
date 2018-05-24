@@ -9,7 +9,7 @@ to one particular instrument.
 List of Actuators:
 ------------------
 
-Below a list of all known actuators, including those that might logically
+Below is a list of all known actuators, including those that might logically
 be associated with the SampleChanger of Diffractometer, as well as more
 generally with the beamline.
 
